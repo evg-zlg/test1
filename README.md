@@ -1,4 +1,6 @@
 # First page in GitHub
-### Wery import information about them 
+### and very important information about them 
 
+![dinosaur-rex](dinosaur-640)
 
+**Как-то так**
